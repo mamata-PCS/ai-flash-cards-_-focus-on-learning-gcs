@@ -36,10 +36,10 @@ AI Flash Cards is an AI-powered learning application that converts textbook imag
 npm install
 ```
 
-2. Create a `.env.local` file and add your Gemini API key:
+2. Create a `.env` file and add your Gemini API key:
 
 ```
-VITE_GEMINI_API_KEY=your_api_key_here
+GEMINI_API_KEY=your_api_key_here
 ```
 
 3. Start the development server:
